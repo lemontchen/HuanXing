@@ -22,3 +22,6 @@
 群组删除成员
 聊天消息记录
 上传文件
+
+
+http://blog.csdn.net/u010957293/article/details/50579918
